@@ -95,7 +95,7 @@ exclude:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-mehdix-rtl
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
